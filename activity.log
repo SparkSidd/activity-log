@@ -8,3 +8,4 @@
 [2024-11-05T16:02:58] feat: implement adaptive retry policy
 [2024-11-20T16:16:45] docs: update deployment architecture diagram
 [2024-11-30T17:28:39] fix: handle graceful termination signal
+[2024-12-10T23:28:01] feat: add telemetry metrics endpoint
