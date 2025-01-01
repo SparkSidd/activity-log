@@ -11,3 +11,4 @@
 [2024-12-10T23:28:01] feat: add telemetry metrics endpoint
 [2024-12-11T13:06:23] chore: update build configuration
 [2024-12-25T14:37:29] feat: add distributed lock manager
+[2025-01-01T19:57:03] refactor: migrate database schema migrations
