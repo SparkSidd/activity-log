@@ -15,3 +15,4 @@
 [2025-01-22T18:57:07] docs: clarify API specification
 [2025-01-23T12:32:45] docs: update deployment architecture diagram
 [2025-02-13T18:38:07] perf: reduce serialization overhead in RPC layer
+[2025-02-13T13:51:31] fix: handle graceful termination signal
