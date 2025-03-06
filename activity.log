@@ -21,3 +21,4 @@
 [2025-02-21T19:05:16] feat: implement adaptive retry policy
 [2025-02-24T15:40:26] feat: add distributed lock manager
 [2025-02-28T11:04:48] chore: update build configuration
+[2025-03-06T23:11:50] chore: clean up legacy endpoints
