@@ -31,3 +31,4 @@
 [2025-03-26T12:37:22] fix: handle graceful termination signal
 [2025-03-30T15:05:50] docs: update deployment architecture diagram
 [2025-03-30T13:59:21] test: benchmark concurrent throughput
+[2025-03-31T19:51:04] refactor: migrate database schema migrations
