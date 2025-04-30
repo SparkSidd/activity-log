@@ -40,3 +40,4 @@
 [2025-04-10T23:36:30] feat: implement adaptive retry policy
 [2025-04-13T23:26:36] feat: implement adaptive retry policy
 [2025-04-24T15:01:17] refactor: migrate database schema migrations
+[2025-04-30T15:27:15] perf: reduce serialization overhead in RPC layer
