@@ -43,3 +43,4 @@
 [2025-04-30T15:27:15] perf: reduce serialization overhead in RPC layer
 [2025-05-02T14:39:59] docs: clarify API specification
 [2025-05-02T21:43:20] feat: optimize data ingestion pipeline
+[2025-05-17T20:27:29] feat: add telemetry metrics endpoint
