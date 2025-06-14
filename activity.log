@@ -48,3 +48,4 @@
 [2025-05-22T20:47:30] docs: update deployment architecture diagram
 [2025-06-03T19:50:03] test: benchmark concurrent throughput
 [2025-06-12T22:17:33] feat: implement adaptive retry policy
+[2025-06-14T17:15:32] feat: add telemetry metrics endpoint
