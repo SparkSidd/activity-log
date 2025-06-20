@@ -50,3 +50,4 @@
 [2025-06-12T22:17:33] feat: implement adaptive retry policy
 [2025-06-14T17:15:32] feat: add telemetry metrics endpoint
 [2025-06-19T11:52:57] test: benchmark concurrent throughput
+[2025-06-20T18:52:10] feat: add authentication middleware
