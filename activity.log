@@ -51,3 +51,4 @@
 [2025-06-14T17:15:32] feat: add telemetry metrics endpoint
 [2025-06-19T11:52:57] test: benchmark concurrent throughput
 [2025-06-20T18:52:10] feat: add authentication middleware
+[2025-07-23T17:20:32] docs: clarify API specification
