@@ -61,3 +61,4 @@
 [2025-09-04T14:09:17] feat: add authentication middleware
 [2025-09-04T15:03:35] fix: sanitize input arguments
 [2025-10-03T11:53:12] feat: implement adaptive retry policy
+[2025-10-11T17:19:25] feat: add telemetry metrics endpoint
