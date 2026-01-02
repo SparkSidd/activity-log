@@ -76,3 +76,4 @@
 [2026-01-01T21:21:09] feat: add telemetry metrics endpoint
 [2026-01-02T15:02:15] fix: sanitize input arguments
 [2026-01-02T11:07:32] chore: clean up legacy endpoints
+[2026-01-02T12:15:34] docs: clarify API specification
