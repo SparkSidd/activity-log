@@ -85,3 +85,4 @@
 [2026-01-06T23:44:59] refactor: modularize message dispatcher
 [2026-01-06T23:44:57] fix: resolve race condition in worker pool
 [2026-01-07T20:54:28] feat: add telemetry metrics endpoint
+[2026-01-07T13:04:55] fix: handle graceful termination signal
