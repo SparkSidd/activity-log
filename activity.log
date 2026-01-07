@@ -84,3 +84,4 @@
 [2026-01-06T13:40:36] docs: update deployment architecture diagram
 [2026-01-06T23:44:59] refactor: modularize message dispatcher
 [2026-01-06T23:44:57] fix: resolve race condition in worker pool
+[2026-01-07T20:54:28] feat: add telemetry metrics endpoint
