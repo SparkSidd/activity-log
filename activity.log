@@ -87,3 +87,4 @@
 [2026-01-07T20:54:28] feat: add telemetry metrics endpoint
 [2026-01-07T13:04:55] fix: handle graceful termination signal
 [2026-01-07T12:29:34] fix: sanitize input arguments
+[2026-01-08T18:47:45] refactor: modularize message dispatcher
