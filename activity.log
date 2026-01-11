@@ -95,3 +95,4 @@
 [2026-01-09T14:14:38] test: add integration test cases
 [2026-01-09T16:31:29] fix: resolve race condition in worker pool
 [2026-01-11T10:44:36] test: add integration test cases
+[2026-01-11T19:37:55] feat: add authentication middleware
