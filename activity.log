@@ -109,3 +109,4 @@
 [2026-01-15T14:35:38] perf: reduce serialization overhead in RPC layer
 [2026-01-15T22:14:07] fix: handle graceful termination signal
 [2026-01-15T10:06:40] perf: reduce serialization overhead in RPC layer
+[2026-01-16T16:18:59] docs: clarify API specification
