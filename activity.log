@@ -112,3 +112,4 @@
 [2026-01-16T16:18:59] docs: clarify API specification
 [2026-01-16T12:52:44] docs: clarify API specification
 [2026-01-16T20:18:35] style: format codebase with standard linter
+[2026-01-17T22:29:54] refactor: migrate database schema migrations
