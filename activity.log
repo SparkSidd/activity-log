@@ -118,3 +118,4 @@
 [2026-01-17T23:22:03] test: benchmark concurrent throughput
 [2026-01-18T13:58:15] style: format codebase with standard linter
 [2026-01-19T16:56:28] feat: optimize data ingestion pipeline
+[2026-01-19T16:54:11] fix: sanitize input arguments
