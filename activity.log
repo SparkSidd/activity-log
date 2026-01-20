@@ -126,3 +126,4 @@
 [2026-01-20T10:10:23] docs: clarify API specification
 [2026-01-20T21:30:57] fix: handle graceful termination signal
 [2026-01-20T15:22:57] feat: implement adaptive retry policy
+[2026-01-20T20:54:14] chore: update build configuration
