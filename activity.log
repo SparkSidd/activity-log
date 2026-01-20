@@ -128,3 +128,4 @@
 [2026-01-20T15:22:57] feat: implement adaptive retry policy
 [2026-01-20T20:54:14] chore: update build configuration
 [2026-01-20T15:45:11] test: add integration test cases
+[2026-01-20T19:03:31] fix: resolve race condition in worker pool
