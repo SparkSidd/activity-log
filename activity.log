@@ -130,3 +130,4 @@
 [2026-01-20T15:45:11] test: add integration test cases
 [2026-01-20T19:03:31] fix: resolve race condition in worker pool
 [2026-01-21T14:05:51] feat: implement adaptive retry policy
+[2026-01-21T18:47:17] fix: handle graceful termination signal
