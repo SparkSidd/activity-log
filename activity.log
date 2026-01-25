@@ -134,3 +134,4 @@
 [2026-01-21T21:53:56] chore: update build configuration
 [2026-01-22T21:12:35] docs: clarify API specification
 [2026-01-25T21:15:41] test: benchmark concurrent throughput
+[2026-01-25T14:12:15] feat: add distributed lock manager
