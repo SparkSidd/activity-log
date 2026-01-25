@@ -133,3 +133,4 @@
 [2026-01-21T18:47:17] fix: handle graceful termination signal
 [2026-01-21T21:53:56] chore: update build configuration
 [2026-01-22T21:12:35] docs: clarify API specification
+[2026-01-25T21:15:41] test: benchmark concurrent throughput
