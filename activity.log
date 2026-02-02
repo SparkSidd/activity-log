@@ -161,3 +161,4 @@
 [2026-01-31T17:39:13] docs: clarify API specification
 [2026-02-02T13:54:32] test: add integration test cases
 [2026-02-02T20:55:44] chore: clean up legacy endpoints
+[2026-02-02T15:14:15] test: benchmark concurrent throughput
