@@ -165,3 +165,4 @@
 [2026-02-04T14:41:42] refactor: modularize message dispatcher
 [2026-02-04T22:10:31] chore: clean up legacy endpoints
 [2026-02-05T16:15:49] feat: implement adaptive retry policy
+[2026-02-06T15:50:19] refactor: migrate database schema migrations
