@@ -182,3 +182,4 @@
 [2026-02-13T16:26:26] chore: update build configuration
 [2026-02-16T12:09:47] fix: sanitize input arguments
 [2026-02-16T11:23:44] perf: reduce serialization overhead in RPC layer
+[2026-02-16T23:49:59] feat: add authentication middleware
