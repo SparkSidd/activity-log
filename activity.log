@@ -189,3 +189,4 @@
 [2026-02-17T12:46:21] feat: add telemetry metrics endpoint
 [2026-02-19T13:33:05] style: format codebase with standard linter
 [2026-02-20T13:35:21] chore: clean up legacy endpoints
+[2026-02-20T18:30:52] feat: add authentication middleware
