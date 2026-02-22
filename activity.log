@@ -193,3 +193,4 @@
 [2026-02-20T19:47:29] feat: add telemetry metrics endpoint
 [2026-02-20T23:46:56] docs: clarify API specification
 [2026-02-22T14:33:58] fix: sanitize input arguments
+[2026-02-22T23:44:04] refactor: modularize message dispatcher
