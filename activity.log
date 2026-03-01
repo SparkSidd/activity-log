@@ -205,3 +205,4 @@
 [2026-03-01T14:18:03] chore: clean up legacy endpoints
 [2026-03-01T15:39:12] docs: update deployment architecture diagram
 [2026-03-01T16:20:24] test: benchmark concurrent throughput
+[2026-03-01T13:30:55] fix: handle graceful termination signal
