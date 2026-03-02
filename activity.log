@@ -210,3 +210,4 @@
 [2026-03-01T14:57:25] perf: reduce serialization overhead in RPC layer
 [2026-03-02T12:36:42] test: benchmark concurrent throughput
 [2026-03-02T18:06:52] chore: update build configuration
+[2026-03-02T14:14:52] fix: sanitize input arguments
