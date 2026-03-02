@@ -208,3 +208,4 @@
 [2026-03-01T13:30:55] fix: handle graceful termination signal
 [2026-03-01T17:14:43] style: format codebase with standard linter
 [2026-03-01T14:57:25] perf: reduce serialization overhead in RPC layer
+[2026-03-02T12:36:42] test: benchmark concurrent throughput
