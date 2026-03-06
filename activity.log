@@ -226,3 +226,4 @@
 [2026-03-06T14:09:44] chore: update build configuration
 [2026-03-06T21:44:22] fix: sanitize input arguments
 [2026-03-06T21:39:56] test: add integration test cases
+[2026-03-06T15:05:57] fix: resolve race condition in worker pool
