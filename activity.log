@@ -224,3 +224,4 @@
 [2026-03-05T13:32:47] feat: add distributed lock manager
 [2026-03-05T20:07:14] docs: update deployment architecture diagram
 [2026-03-06T14:09:44] chore: update build configuration
+[2026-03-06T21:44:22] fix: sanitize input arguments
