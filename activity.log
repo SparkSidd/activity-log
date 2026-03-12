@@ -244,3 +244,4 @@
 [2026-03-11T14:25:53] docs: update deployment architecture diagram
 [2026-03-12T21:55:29] test: add integration test cases
 [2026-03-12T23:50:56] fix: handle graceful termination signal
+[2026-03-12T14:49:44] feat: add distributed lock manager
