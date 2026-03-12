@@ -245,3 +245,4 @@
 [2026-03-12T21:55:29] test: add integration test cases
 [2026-03-12T23:50:56] fix: handle graceful termination signal
 [2026-03-12T14:49:44] feat: add distributed lock manager
+[2026-03-12T23:25:26] docs: clarify API specification
