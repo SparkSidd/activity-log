@@ -258,3 +258,4 @@
 [2026-03-17T16:41:42] docs: update deployment architecture diagram
 [2026-03-18T10:22:19] style: format codebase with standard linter
 [2026-03-18T10:04:42] refactor: modularize message dispatcher
+[2026-03-18T11:11:10] perf: reduce serialization overhead in RPC layer
