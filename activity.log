@@ -267,3 +267,4 @@
 [2026-03-25T15:01:37] chore: update build configuration
 [2026-03-25T21:10:16] docs: clarify API specification
 [2026-03-25T15:04:05] docs: update deployment architecture diagram
+[2026-03-25T14:41:35] feat: add authentication middleware
