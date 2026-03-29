@@ -274,3 +274,4 @@
 [2026-03-28T19:41:48] perf: reduce serialization overhead in RPC layer
 [2026-03-28T17:41:58] fix: resolve race condition in worker pool
 [2026-03-28T16:28:19] feat: initial project setup and dependencies
+[2026-03-29T13:36:28] chore: clean up legacy endpoints
