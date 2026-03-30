@@ -276,3 +276,4 @@
 [2026-03-28T16:28:19] feat: initial project setup and dependencies
 [2026-03-29T13:36:28] chore: clean up legacy endpoints
 [2026-03-29T11:29:59] chore: update build configuration
+[2026-03-30T15:52:30] fix: sanitize input arguments
