@@ -281,3 +281,4 @@
 [2026-03-31T11:20:20] feat: add telemetry metrics endpoint
 [2026-03-31T23:29:18] chore: clean up legacy endpoints
 [2026-03-31T20:55:16] test: add integration test cases
+[2026-03-31T14:11:03] test: benchmark concurrent throughput
