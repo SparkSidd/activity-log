@@ -278,3 +278,4 @@
 [2026-03-29T11:29:59] chore: update build configuration
 [2026-03-30T15:52:30] fix: sanitize input arguments
 [2026-03-31T21:45:37] feat: add authentication middleware
+[2026-03-31T11:20:20] feat: add telemetry metrics endpoint
