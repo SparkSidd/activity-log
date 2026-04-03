@@ -291,3 +291,4 @@
 [2026-04-02T12:21:22] chore: clean up legacy endpoints
 [2026-04-03T18:34:04] feat: implement adaptive retry policy
 [2026-04-03T13:55:47] refactor: modularize message dispatcher
+[2026-04-03T14:31:12] feat: add authentication middleware
