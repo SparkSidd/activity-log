@@ -303,3 +303,4 @@
 [2026-04-10T16:41:39] feat: optimize data ingestion pipeline
 [2026-04-10T21:24:54] fix: sanitize input arguments
 [2026-04-12T11:17:47] fix: resolve race condition in worker pool
+[2026-04-12T12:49:46] chore: clean up legacy endpoints
