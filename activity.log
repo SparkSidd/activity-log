@@ -306,3 +306,4 @@
 [2026-04-12T12:49:46] chore: clean up legacy endpoints
 [2026-04-12T10:24:43] test: add integration test cases
 [2026-04-13T12:31:24] feat: initial project setup and dependencies
+[2026-04-15T18:02:49] test: benchmark concurrent throughput
