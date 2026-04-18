@@ -317,3 +317,4 @@
 [2026-04-17T18:42:18] feat: implement adaptive retry policy
 [2026-04-17T19:52:37] docs: clarify API specification
 [2026-04-18T21:13:08] fix: resolve race condition in worker pool
+[2026-04-18T16:33:53] feat: add authentication middleware
