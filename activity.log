@@ -319,3 +319,4 @@
 [2026-04-18T21:13:08] fix: resolve race condition in worker pool
 [2026-04-18T16:33:53] feat: add authentication middleware
 [2026-04-19T10:18:33] fix: sanitize input arguments
+[2026-04-20T21:54:31] docs: update deployment architecture diagram
