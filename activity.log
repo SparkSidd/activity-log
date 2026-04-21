@@ -324,3 +324,4 @@
 [2026-04-20T11:04:47] feat: implement adaptive retry policy
 [2026-04-20T14:31:04] docs: clarify API specification
 [2026-04-20T22:57:20] fix: handle graceful termination signal
+[2026-04-21T11:49:59] fix: handle graceful termination signal
