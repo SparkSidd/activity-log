@@ -340,3 +340,4 @@
 [2026-04-28T10:28:51] perf: reduce serialization overhead in RPC layer
 [2026-04-28T15:20:38] feat: add authentication middleware
 [2026-04-28T23:15:53] style: format codebase with standard linter
+[2026-04-28T19:06:29] fix: handle graceful termination signal
