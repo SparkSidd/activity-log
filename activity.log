@@ -338,3 +338,4 @@
 [2026-04-27T12:10:16] feat: add telemetry metrics endpoint
 [2026-04-27T11:04:43] fix: resolve race condition in worker pool
 [2026-04-28T10:28:51] perf: reduce serialization overhead in RPC layer
+[2026-04-28T15:20:38] feat: add authentication middleware
