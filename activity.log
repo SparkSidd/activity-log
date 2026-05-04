@@ -353,3 +353,4 @@
 [2026-05-01T16:57:30] test: add integration test cases
 [2026-05-04T19:10:31] refactor: migrate database schema migrations
 [2026-05-04T21:59:40] perf: cache frequent query patterns
+[2026-05-04T23:40:19] chore: clean up legacy endpoints
