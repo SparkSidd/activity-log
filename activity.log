@@ -360,3 +360,4 @@
 [2026-05-05T23:07:32] perf: reduce serialization overhead in RPC layer
 [2026-05-06T23:11:11] fix: sanitize input arguments
 [2026-05-06T17:28:16] perf: cache frequent query patterns
+[2026-05-06T17:14:24] feat: add telemetry metrics endpoint
