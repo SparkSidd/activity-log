@@ -363,3 +363,4 @@
 [2026-05-06T17:14:24] feat: add telemetry metrics endpoint
 [2026-05-06T22:55:01] docs: update deployment architecture diagram
 [2026-05-07T11:13:43] refactor: migrate database schema migrations
+[2026-05-07T21:26:50] feat: implement adaptive retry policy
