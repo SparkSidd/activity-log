@@ -372,3 +372,4 @@
 [2026-05-08T22:37:05] test: add integration test cases
 [2026-05-11T18:57:48] chore: update build configuration
 [2026-05-11T12:57:02] perf: cache frequent query patterns
+[2026-05-13T11:58:00] test: benchmark concurrent throughput
