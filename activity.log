@@ -383,3 +383,4 @@
 [2026-05-21T22:15:04] style: format codebase with standard linter
 [2026-05-24T20:26:18] fix: handle graceful termination signal
 [2026-05-24T23:06:58] fix: resolve race condition in worker pool
+[2026-05-24T23:52:37] test: benchmark concurrent throughput
