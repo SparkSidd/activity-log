@@ -395,3 +395,4 @@
 [2026-05-26T18:58:19] test: benchmark concurrent throughput
 [2026-05-27T18:29:46] refactor: modularize message dispatcher
 [2026-05-27T20:12:03] feat: initial project setup and dependencies
+[2026-05-27T10:02:54] fix: handle graceful termination signal
