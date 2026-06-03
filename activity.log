@@ -407,3 +407,4 @@
 [2026-06-02T14:41:28] test: add integration test cases
 [2026-06-02T23:54:10] feat: initial project setup and dependencies
 [2026-06-02T19:09:27] test: add integration test cases
+[2026-06-03T16:53:11] test: benchmark concurrent throughput
