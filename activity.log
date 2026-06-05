@@ -414,3 +414,4 @@
 [2026-06-04T12:50:50] refactor: migrate database schema migrations
 [2026-06-04T17:47:23] style: format codebase with standard linter
 [2026-06-04T15:53:16] docs: clarify API specification
+[2026-06-05T23:13:18] fix: handle graceful termination signal
