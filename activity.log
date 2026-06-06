@@ -415,3 +415,4 @@
 [2026-06-04T17:47:23] style: format codebase with standard linter
 [2026-06-04T15:53:16] docs: clarify API specification
 [2026-06-05T23:13:18] fix: handle graceful termination signal
+[2026-06-06T19:56:30] feat: add distributed lock manager
