@@ -420,3 +420,4 @@
 [2026-06-06T20:24:35] feat: optimize data ingestion pipeline
 [2026-06-06T18:43:11] fix: resolve race condition in worker pool
 [2026-06-06T18:16:25] feat: add authentication middleware
+[2026-06-06T11:52:46] feat: add telemetry metrics endpoint
