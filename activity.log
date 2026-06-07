@@ -423,3 +423,4 @@
 [2026-06-06T11:52:46] feat: add telemetry metrics endpoint
 [2026-06-07T18:04:25] chore: update build configuration
 [2026-06-07T19:01:06] fix: sanitize input arguments
+[2026-06-07T22:46:46] chore: update build configuration
