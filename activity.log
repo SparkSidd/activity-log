@@ -426,3 +426,4 @@
 [2026-06-07T22:46:46] chore: update build configuration
 [2026-06-07T17:48:53] chore: clean up legacy endpoints
 [2026-06-07T17:38:28] feat: add distributed lock manager
+[2026-06-07T12:07:08] docs: update deployment architecture diagram
