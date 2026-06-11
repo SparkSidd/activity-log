@@ -437,3 +437,4 @@
 [2026-06-10T23:24:32] fix: resolve race condition in worker pool
 [2026-06-10T22:26:42] refactor: modularize message dispatcher
 [2026-06-10T21:42:10] feat: optimize data ingestion pipeline
+[2026-06-11T23:06:27] fix: sanitize input arguments
