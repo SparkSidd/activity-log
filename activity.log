@@ -440,3 +440,4 @@
 [2026-06-11T23:06:27] fix: sanitize input arguments
 [2026-06-11T14:40:05] fix: handle graceful termination signal
 [2026-06-11T18:18:40] fix: sanitize input arguments
+[2026-06-11T16:11:38] feat: implement adaptive retry policy
