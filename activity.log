@@ -450,3 +450,4 @@
 [2026-06-13T14:40:53] perf: reduce serialization overhead in RPC layer
 [2026-06-13T23:05:53] feat: add telemetry metrics endpoint
 [2026-06-13T21:03:06] feat: add telemetry metrics endpoint
+[2026-06-14T12:58:16] feat: add authentication middleware
