@@ -465,3 +465,4 @@
 [2026-06-16T10:31:35] fix: sanitize input arguments
 [2026-06-16T12:48:46] fix: resolve race condition in worker pool
 [2026-06-18T11:10:57] feat: initial project setup and dependencies
+[2026-06-19T22:06:06] docs: update deployment architecture diagram
