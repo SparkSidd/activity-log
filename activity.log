@@ -467,3 +467,4 @@
 [2026-06-18T11:10:57] feat: initial project setup and dependencies
 [2026-06-19T22:06:06] docs: update deployment architecture diagram
 [2026-06-19T17:40:28] perf: reduce serialization overhead in RPC layer
+[2026-06-19T19:10:31] refactor: migrate database schema migrations
