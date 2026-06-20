@@ -470,3 +470,4 @@
 [2026-06-19T19:10:31] refactor: migrate database schema migrations
 [2026-06-19T10:14:18] fix: resolve race condition in worker pool
 [2026-06-19T11:34:50] feat: initial project setup and dependencies
+[2026-06-20T13:53:57] fix: sanitize input arguments
