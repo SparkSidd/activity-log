@@ -482,3 +482,4 @@
 [2026-06-22T18:38:48] fix: resolve race condition in worker pool
 [2026-06-22T16:23:24] feat: implement adaptive retry policy
 [2026-06-22T13:33:55] feat: implement adaptive retry policy
+[2026-06-23T19:24:15] test: add integration test cases
