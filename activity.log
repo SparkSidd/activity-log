@@ -487,3 +487,4 @@
 [2026-06-23T18:15:35] fix: handle graceful termination signal
 [2026-06-23T12:30:54] perf: reduce serialization overhead in RPC layer
 [2026-06-25T17:56:24] feat: add distributed lock manager
+[2026-06-25T15:32:34] perf: reduce serialization overhead in RPC layer
