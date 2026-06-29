@@ -490,3 +490,4 @@
 [2026-06-25T15:32:34] perf: reduce serialization overhead in RPC layer
 [2026-06-25T11:37:56] feat: implement adaptive retry policy
 [2026-06-26T12:35:48] test: add integration test cases
+[2026-06-29T18:02:39] feat: implement adaptive retry policy
