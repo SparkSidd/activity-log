@@ -498,3 +498,4 @@
 [2026-06-30T17:32:56] chore: clean up legacy endpoints
 [2026-06-30T23:33:58] style: format codebase with standard linter
 [2026-06-30T17:37:32] perf: cache frequent query patterns
+[2026-07-01T15:45:49] fix: resolve race condition in worker pool
