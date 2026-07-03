@@ -503,3 +503,4 @@
 [2026-07-03T11:34:52] test: add integration test cases
 [2026-07-03T14:43:51] feat: add authentication middleware
 [2026-07-03T21:04:54] chore: clean up legacy endpoints
+[2026-07-03T15:20:12] docs: clarify API specification
