@@ -508,3 +508,4 @@
 [2026-07-04T21:14:23] test: add integration test cases
 [2026-07-06T11:28:57] fix: sanitize input arguments
 [2026-07-06T12:34:20] style: format codebase with standard linter
+[2026-07-06T17:14:31] docs: update deployment architecture diagram
