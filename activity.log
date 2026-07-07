@@ -510,3 +510,4 @@
 [2026-07-06T12:34:20] style: format codebase with standard linter
 [2026-07-06T17:14:31] docs: update deployment architecture diagram
 [2026-07-07T16:50:43] perf: cache frequent query patterns
+[2026-07-07T17:30:20] docs: clarify API specification
