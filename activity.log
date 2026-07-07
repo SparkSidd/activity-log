@@ -513,3 +513,4 @@
 [2026-07-07T17:30:20] docs: clarify API specification
 [2026-07-07T20:44:37] perf: cache frequent query patterns
 [2026-07-07T22:34:55] chore: clean up legacy endpoints
+[2026-07-07T10:01:55] docs: update deployment architecture diagram
