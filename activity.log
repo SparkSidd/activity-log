@@ -515,3 +515,4 @@
 [2026-07-07T22:34:55] chore: clean up legacy endpoints
 [2026-07-07T10:01:55] docs: update deployment architecture diagram
 [2026-07-07T11:21:29] style: format codebase with standard linter
+[2026-07-08T23:08:47] fix: handle graceful termination signal
