@@ -530,3 +530,4 @@
 [2026-07-12T16:14:00] docs: update deployment architecture diagram
 [2026-07-12T17:31:34] perf: reduce serialization overhead in RPC layer
 [2026-07-12T15:50:18] fix: sanitize input arguments
+[2026-07-12T19:36:38] feat: add authentication middleware
