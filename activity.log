@@ -558,3 +558,4 @@
 [2026-07-23T19:18:43] feat: optimize data ingestion pipeline
 [2026-07-24T12:13:58] fix: sanitize input arguments
 [2026-07-26T14:02:34] docs: clarify API specification
+[2026-07-26T14:03:01] style: format codebase with standard linter
