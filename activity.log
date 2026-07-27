@@ -560,3 +560,4 @@
 [2026-07-26T14:02:34] docs: clarify API specification
 [2026-07-26T14:03:01] style: format codebase with standard linter
 [2026-07-26T10:40:43] feat: initial project setup and dependencies
+[2026-07-27T18:06:34] perf: reduce serialization overhead in RPC layer
