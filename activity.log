@@ -564,3 +564,4 @@
 [2026-07-27T21:49:57] perf: reduce serialization overhead in RPC layer
 [2026-07-28T11:03:49] chore: clean up legacy endpoints
 [2026-07-29T19:52:42] test: benchmark concurrent throughput
+[2026-07-29T18:55:28] test: benchmark concurrent throughput
