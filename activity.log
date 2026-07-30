@@ -569,3 +569,4 @@
 [2026-07-29T10:36:44] perf: cache frequent query patterns
 [2026-07-29T19:25:10] feat: add telemetry metrics endpoint
 [2026-07-29T13:11:49] feat: add telemetry metrics endpoint
+[2026-07-30T20:23:19] perf: reduce serialization overhead in RPC layer
