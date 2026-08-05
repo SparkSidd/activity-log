@@ -574,3 +574,4 @@
 [2026-07-30T14:12:53] feat: add telemetry metrics endpoint
 [2026-07-31T15:05:48] feat: implement adaptive retry policy
 [2026-08-05T16:26:50] feat: add telemetry metrics endpoint
+[2026-08-05T10:10:48] perf: reduce serialization overhead in RPC layer
