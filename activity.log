@@ -586,3 +586,4 @@
 [2026-08-07T12:16:48] perf: reduce serialization overhead in RPC layer
 [2026-08-07T21:33:23] fix: handle graceful termination signal
 [2026-08-07T21:14:37] chore: update build configuration
+[2026-08-07T23:38:44] chore: clean up legacy endpoints
