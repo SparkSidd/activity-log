@@ -589,3 +589,4 @@
 [2026-08-07T23:38:44] chore: clean up legacy endpoints
 [2026-08-08T19:56:43] fix: handle graceful termination signal
 [2026-08-08T23:39:34] style: format codebase with standard linter
+[2026-08-08T14:31:53] chore: clean up legacy endpoints
