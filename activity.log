@@ -595,3 +595,4 @@
 [2026-08-10T17:33:06] feat: add distributed lock manager
 [2026-08-10T13:30:48] refactor: migrate database schema migrations
 [2026-08-10T12:35:50] refactor: modularize message dispatcher
+[2026-08-10T13:58:46] fix: resolve race condition in worker pool
