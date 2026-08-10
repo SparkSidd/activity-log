@@ -591,3 +591,4 @@
 [2026-08-08T23:39:34] style: format codebase with standard linter
 [2026-08-08T14:31:53] chore: clean up legacy endpoints
 [2026-08-09T19:38:28] feat: optimize data ingestion pipeline
+[2026-08-10T12:20:46] fix: handle graceful termination signal
