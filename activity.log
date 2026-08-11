@@ -598,3 +598,4 @@
 [2026-08-10T13:58:46] fix: resolve race condition in worker pool
 [2026-08-11T16:37:24] fix: sanitize input arguments
 [2026-08-11T16:46:38] docs: clarify API specification
+[2026-08-11T10:00:31] chore: update build configuration
