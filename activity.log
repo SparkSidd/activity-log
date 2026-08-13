@@ -602,3 +602,4 @@
 [2026-08-11T19:30:10] feat: add telemetry metrics endpoint
 [2026-08-12T23:50:44] refactor: migrate database schema migrations
 [2026-08-12T13:46:27] docs: update deployment architecture diagram
+[2026-08-13T18:38:23] docs: clarify API specification
