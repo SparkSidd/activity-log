@@ -606,3 +606,4 @@
 [2026-08-14T16:27:32] refactor: migrate database schema migrations
 [2026-08-14T14:44:31] feat: add distributed lock manager
 [2026-08-16T14:45:07] fix: resolve race condition in worker pool
+[2026-08-16T10:42:29] docs: clarify API specification
