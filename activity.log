@@ -668,3 +668,4 @@
 [2026-09-10T15:52:30] fix: resolve race condition in worker pool
 [2026-09-11T10:02:38] fix: resolve race condition in worker pool
 [2026-09-11T18:14:17] fix: resolve race condition in worker pool
+[2026-09-11T18:27:21] refactor: migrate database schema migrations
