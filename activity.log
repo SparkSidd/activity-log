@@ -679,3 +679,4 @@
 [2026-09-14T22:15:03] docs: update deployment architecture diagram
 [2026-09-15T10:45:40] feat: add distributed lock manager
 [2026-09-15T23:10:11] feat: add distributed lock manager
+[2026-09-15T12:59:15] chore: update build configuration
