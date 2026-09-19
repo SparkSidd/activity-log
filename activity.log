@@ -693,3 +693,4 @@
 [2026-09-18T12:22:19] fix: sanitize input arguments
 [2026-09-19T13:00:53] style: format codebase with standard linter
 [2026-09-19T14:13:12] docs: clarify API specification
+[2026-09-19T23:35:43] perf: cache frequent query patterns
