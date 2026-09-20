@@ -696,3 +696,4 @@
 [2026-09-19T23:35:43] perf: cache frequent query patterns
 [2026-09-19T16:21:52] style: format codebase with standard linter
 [2026-09-19T23:57:56] feat: optimize data ingestion pipeline
+[2026-09-20T21:05:11] docs: clarify API specification
