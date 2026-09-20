@@ -699,3 +699,4 @@
 [2026-09-20T21:05:11] docs: clarify API specification
 [2026-09-20T13:32:26] chore: clean up legacy endpoints
 [2026-09-20T13:51:11] feat: implement adaptive retry policy
+[2026-09-20T21:18:42] feat: add distributed lock manager
