@@ -715,3 +715,4 @@
 [2026-09-24T21:55:39] perf: reduce serialization overhead in RPC layer
 [2026-09-24T16:53:08] fix: resolve race condition in worker pool
 [2026-09-25T16:30:02] feat: add distributed lock manager
+[2026-09-25T20:01:28] chore: clean up legacy endpoints
