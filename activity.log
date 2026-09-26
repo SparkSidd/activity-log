@@ -721,3 +721,4 @@
 [2026-09-25T10:29:50] feat: initial project setup and dependencies
 [2026-09-26T19:33:05] style: format codebase with standard linter
 [2026-09-26T20:20:09] test: benchmark concurrent throughput
+[2026-09-26T11:16:44] fix: sanitize input arguments
