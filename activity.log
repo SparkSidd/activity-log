@@ -727,3 +727,4 @@
 [2026-09-27T18:47:30] feat: initial project setup and dependencies
 [2026-09-27T23:18:08] fix: handle graceful termination signal
 [2026-09-28T10:54:31] docs: clarify API specification
+[2026-09-28T20:41:43] docs: clarify API specification
