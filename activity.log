@@ -740,3 +740,4 @@
 [2026-09-30T18:15:23] fix: sanitize input arguments
 [2026-10-01T23:25:25] feat: add authentication middleware
 [2026-10-01T14:04:05] feat: implement adaptive retry policy
+[2026-10-01T16:19:26] docs: update deployment architecture diagram
