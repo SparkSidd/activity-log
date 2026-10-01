@@ -738,3 +738,4 @@
 [2026-09-30T17:39:47] fix: resolve race condition in worker pool
 [2026-09-30T23:01:26] feat: add telemetry metrics endpoint
 [2026-09-30T18:15:23] fix: sanitize input arguments
+[2026-10-01T23:25:25] feat: add authentication middleware
