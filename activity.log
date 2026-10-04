@@ -752,3 +752,4 @@
 [2026-10-03T10:32:24] style: format codebase with standard linter
 [2026-10-03T15:33:54] perf: cache frequent query patterns
 [2026-10-04T20:58:42] fix: handle graceful termination signal
+[2026-10-04T14:04:14] docs: update deployment architecture diagram
