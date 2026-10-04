@@ -754,3 +754,4 @@
 [2026-10-04T20:58:42] fix: handle graceful termination signal
 [2026-10-04T14:04:14] docs: update deployment architecture diagram
 [2026-10-04T14:33:32] fix: sanitize input arguments
+[2026-10-04T21:07:11] docs: clarify API specification
