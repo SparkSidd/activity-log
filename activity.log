@@ -756,3 +756,4 @@
 [2026-10-04T14:33:32] fix: sanitize input arguments
 [2026-10-04T21:07:11] docs: clarify API specification
 [2026-10-05T23:26:10] style: format codebase with standard linter
+[2026-10-05T18:36:23] refactor: migrate database schema migrations
