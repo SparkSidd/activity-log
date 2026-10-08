@@ -770,3 +770,4 @@
 [2026-10-07T18:15:00] style: format codebase with standard linter
 [2026-10-08T14:24:04] test: add integration test cases
 [2026-10-08T20:28:38] refactor: migrate database schema migrations
+[2026-10-08T12:15:53] docs: update deployment architecture diagram
