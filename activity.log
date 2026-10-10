@@ -777,3 +777,4 @@
 [2026-10-09T13:21:46] feat: add authentication middleware
 [2026-10-09T19:42:13] chore: update build configuration
 [2026-10-10T11:52:55] chore: update build configuration
+[2026-10-10T18:43:39] fix: sanitize input arguments
