@@ -779,3 +779,4 @@
 [2026-10-10T11:52:55] chore: update build configuration
 [2026-10-10T18:43:39] fix: sanitize input arguments
 [2026-10-10T23:40:38] fix: resolve race condition in worker pool
+[2026-10-10T10:38:44] fix: resolve race condition in worker pool
