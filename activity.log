@@ -782,3 +782,4 @@
 [2026-10-10T10:38:44] fix: resolve race condition in worker pool
 [2026-10-11T19:33:29] docs: clarify API specification
 [2026-10-11T15:01:11] test: add integration test cases
+[2026-10-11T19:25:12] style: format codebase with standard linter
