@@ -785,3 +785,4 @@
 [2026-10-11T19:25:12] style: format codebase with standard linter
 [2026-10-12T17:25:31] docs: clarify API specification
 [2026-10-12T10:49:20] perf: reduce serialization overhead in RPC layer
+[2026-10-12T22:43:42] fix: resolve race condition in worker pool
