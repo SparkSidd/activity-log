@@ -793,3 +793,4 @@
 [2026-10-14T22:19:43] feat: add authentication middleware
 [2026-10-14T14:15:43] fix: handle graceful termination signal
 [2026-10-14T12:46:18] chore: clean up legacy endpoints
+[2026-10-15T17:52:20] feat: add distributed lock manager
