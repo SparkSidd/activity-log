@@ -799,3 +799,4 @@
 [2026-10-15T16:54:18] fix: handle graceful termination signal
 [2026-10-15T14:54:04] feat: add telemetry metrics endpoint
 [2026-10-16T10:16:31] fix: resolve race condition in worker pool
+[2026-10-16T16:18:50] fix: sanitize input arguments
