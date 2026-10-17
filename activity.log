@@ -802,3 +802,4 @@
 [2026-10-16T16:18:50] fix: sanitize input arguments
 [2026-10-16T10:48:32] docs: update deployment architecture diagram
 [2026-10-16T20:38:55] docs: clarify API specification
+[2026-10-17T18:48:05] feat: add authentication middleware
