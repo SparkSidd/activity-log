@@ -820,3 +820,4 @@
 [2026-10-21T10:36:52] chore: clean up legacy endpoints
 [2026-10-21T12:40:48] refactor: migrate database schema migrations
 [2026-10-22T11:03:16] refactor: modularize message dispatcher
+[2026-10-22T11:51:21] test: add integration test cases
