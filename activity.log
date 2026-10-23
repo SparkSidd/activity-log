@@ -826,3 +826,4 @@
 [2026-10-22T14:38:22] feat: add authentication middleware
 [2026-10-23T13:30:48] fix: sanitize input arguments
 [2026-10-23T16:56:14] fix: resolve race condition in worker pool
+[2026-10-23T14:41:10] chore: update build configuration
