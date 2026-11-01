@@ -856,3 +856,4 @@
 [2026-10-31T19:34:12] perf: cache frequent query patterns
 [2026-11-01T15:13:29] feat: optimize data ingestion pipeline
 [2026-11-01T13:41:26] test: add integration test cases
+[2026-11-01T13:48:55] feat: add telemetry metrics endpoint
