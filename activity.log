@@ -858,3 +858,4 @@
 [2026-11-01T13:41:26] test: add integration test cases
 [2026-11-01T13:48:55] feat: add telemetry metrics endpoint
 [2026-11-02T23:05:03] style: format codebase with standard linter
+[2026-11-02T13:59:29] fix: sanitize input arguments
