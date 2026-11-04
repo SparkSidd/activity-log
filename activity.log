@@ -866,3 +866,4 @@
 [2026-11-03T19:23:58] feat: implement adaptive retry policy
 [2026-11-03T11:39:50] feat: implement adaptive retry policy
 [2026-11-03T10:54:03] test: benchmark concurrent throughput
+[2026-11-04T21:19:55] fix: sanitize input arguments
