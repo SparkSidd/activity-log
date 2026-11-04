@@ -869,3 +869,4 @@
 [2026-11-04T21:19:55] fix: sanitize input arguments
 [2026-11-04T12:45:00] refactor: migrate database schema migrations
 [2026-11-04T23:19:06] fix: resolve race condition in worker pool
+[2026-11-04T16:09:40] chore: clean up legacy endpoints
