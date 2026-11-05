@@ -872,3 +872,4 @@
 [2026-11-04T16:09:40] chore: clean up legacy endpoints
 [2026-11-05T13:08:01] test: benchmark concurrent throughput
 [2026-11-05T14:16:13] perf: reduce serialization overhead in RPC layer
+[2026-11-05T12:34:48] feat: add authentication middleware
