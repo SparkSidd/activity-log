@@ -876,3 +876,4 @@
 [2026-11-05T22:42:21] test: add integration test cases
 [2026-11-06T13:37:25] fix: resolve race condition in worker pool
 [2026-11-06T22:53:50] fix: handle graceful termination signal
+[2026-11-06T21:09:06] test: benchmark concurrent throughput
