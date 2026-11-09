@@ -888,3 +888,4 @@
 [2026-11-09T10:33:59] chore: clean up legacy endpoints
 [2026-11-09T15:55:57] feat: optimize data ingestion pipeline
 [2026-11-09T20:32:36] feat: add authentication middleware
+[2026-11-09T22:26:19] docs: update deployment architecture diagram
